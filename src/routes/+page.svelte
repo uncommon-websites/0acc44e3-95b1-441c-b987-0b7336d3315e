@@ -11,6 +11,11 @@
 	import Footer from "$lib/components/Footer.svelte";
 </script>
 
+<svelte:head>
+	<title>Cracked - AI-Native ATS for Your First 100 Hires</title>
+	<meta name="description" content="Replace your messy Notion pipeline with Cracked, the open-source ATS built for seed-stage founders. Automated sourcing, workflows, and one-click imports." />
+</svelte:head>
+
 <main class="font-sans text-gray-900 antialiased selection:bg-purple-200 selection:text-purple-900">
 	<Navbar />
 	<Hero />

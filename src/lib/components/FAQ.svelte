@@ -2,28 +2,28 @@
 	let openIndex = 0;
 	const faqs = [
 		{
-			question: "Who can use Juicebox?",
-			answer: "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with companies ranging from Fortune 500 to boutique recruiting agencies — and hopefully, you too."
+			question: "Is Cracked really open source?",
+			answer: "Yes! Cracked is fully open source under the MIT license. You can view, fork, and contribute to our codebase on GitHub. We believe in transparency and community-driven development."
 		},
 		{
-			question: "Can I try Juicebox for free?",
-			answer: "Yes! We offer a free trial so you can experience the power of our AI agents firsthand."
+			question: "How much does Cracked cost?",
+			answer: "Cracked is free for your first 50 candidates. After that, we offer simple, transparent pricing starting at $49/month. No hidden fees, no per-seat charges."
 		},
 		{
-			question: "Can I use Juicebox with my team?",
-			answer: "Absolutely. Juicebox is designed for collaboration, allowing your entire recruiting team to share insights and candidate pools."
+			question: "Can I import my existing pipeline from Notion?",
+			answer: "Absolutely! We built a one-click Notion importer specifically for this. Just connect your Notion workspace and we'll migrate your entire pipeline, including all candidate data and notes."
 		},
 		{
-			question: "How long does it take to set up and start using Juicebox?",
-			answer: "You can get started in minutes. Our onboarding is streamlined to get you sourcing candidates immediately."
+			question: "How long does it take to get started?",
+			answer: "Most founders are up and running in under 10 minutes. Create an account, optionally import from Notion, and start adding candidates. No complex setup required."
 		},
 		{
-			question: "Does Juicebox have global candidate data?",
-			answer: "Yes, we have access to over 800M+ profiles globally across various industries and regions."
+			question: "Do I need technical skills to use Cracked?",
+			answer: "Not at all. Cracked is designed for founders and early-stage teams, not technical recruiters. If you can use Notion or Airtable, you can use Cracked."
 		},
 		{
-			question: "Will it integrate with my ATS or CRM?",
-			answer: "We integrate with all major ATS and CRM platforms including Greenhouse, Lever, Ashby, and more."
+			question: "Can my whole team use it?",
+			answer: "Yes! Invite your co-founders, early employees, or advisors. Everyone can collaborate on the same pipeline, leave notes, and track candidates together."
 		}
 	];
 </script>
@@ -36,10 +36,10 @@
 				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[06] FAQ</div>
 				<h2 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">Your questions, answered</h2>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					We're here to help. Reach out to our sales team for guidance on how to integrate Juicebox into your recruiting workflow.
+					Still have questions? Join our Discord community or reach out directly. We're here to help you hire your first 100.
 				</p>
 				<a href="#" class="inline-block bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
-					Book a Demo
+					Get Started Free
 				</a>
 			</div>
 
